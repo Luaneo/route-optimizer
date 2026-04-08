@@ -87,7 +87,7 @@ uv run fastapi dev main.py
 
 ```bash
 cd frontend
-npm start
+npx expo start
 ```
 
 - Веб: нажать `w` в терминале
