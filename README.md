@@ -74,6 +74,8 @@ route-optimizer/
 
 ## Запуск
 
+Нужно иметь установленные [Node.js](https://nodejs.org/en/download), [Python](https://www.python.org/downloads/) и [uv](https://docs.astral.sh/uv/getting-started/installation/).
+
 ### Backend
 
 ```bash
